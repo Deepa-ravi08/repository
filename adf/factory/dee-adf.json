@@ -1,0 +1,9 @@
+{
+	"name": "dee-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c83a41a2-aaeb-4019-b632-c7d5a735a1da",
+		"tenantId": "f18b08a6-4f5d-4c12-b864-3e33d8bf5618"
+	}
+}
